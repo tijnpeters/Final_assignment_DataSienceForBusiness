@@ -1,0 +1,9 @@
+# Dependencies for Group 03 forecasting notebook (v6)
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# To open and run the notebook locally
+jupyterlab
+ipykernel
