@@ -1,9 +1,10 @@
-# Dependencies for Group 03 forecasting notebook (v6)
-numpy
-pandas
-matplotlib
-scikit-learn
-
-# To open and run the notebook locally
-jupyterlab
-ipykernel
+# Pinned versions from the environment used to execute Group 03 Version 7.
+# IMPORTANT: These are NOT verified against the team's GitHub Codespace.
+# In the Codespace, run: python -m pip freeze | grep -E '^(numpy|pandas|matplotlib|scikit-learn|jupyterlab|ipykernel)=='
+# Replace these pins with the versions from the FINAL successful Codespace Run All.
+numpy==2.3.5
+pandas==2.2.3
+matplotlib==3.10.8
+scikit-learn==1.8.0
+jupyterlab==4.5.3
+ipykernel==7.2.0
